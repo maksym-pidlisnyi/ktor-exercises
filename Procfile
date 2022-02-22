@@ -1,0 +1,1 @@
+web: ./build/install/ktor-exercise/bin/ktor-exercise
